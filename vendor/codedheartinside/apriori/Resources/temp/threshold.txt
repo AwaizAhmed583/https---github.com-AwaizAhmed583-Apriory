@@ -1,0 +1,39 @@
+{"itemIds":["Bladders"],"count":4}
+{"itemIds":["External Gear Pumps"],"count":2}
+{"itemIds":["Fixed Mortors"],"count":2}
+{"itemIds":["Fixed Vane Pumps"],"count":6}
+{"itemIds":["Gear Pumps"],"count":6}
+{"itemIds":["Pumps"],"count":2}
+{"itemIds":["Screws and Nuts"],"count":2}
+{"itemIds":["Spare Parts PV7"],"count":2}
+{"itemIds":["Variable vane Pumps"],"count":2}
+{"itemIds":["Bladders","Fixed Vane Pumps"],"count":4}
+{"itemIds":["Bladders","Gear Pumps"],"count":4}
+{"itemIds":["Bladders","Spare Parts PV7"],"count":2}
+{"itemIds":["Bladders","Variable vane Pumps"],"count":2}
+{"itemIds":["External Gear Pumps","Fixed Mortors"],"count":2}
+{"itemIds":["External Gear Pumps","Screws and Nuts"],"count":2}
+{"itemIds":["Fixed Mortors","Screws and Nuts"],"count":2}
+{"itemIds":["Fixed Vane Pumps","Gear Pumps"],"count":6}
+{"itemIds":["Fixed Vane Pumps","Spare Parts PV7"],"count":2}
+{"itemIds":["Fixed Vane Pumps","Variable vane Pumps"],"count":2}
+{"itemIds":["Gear Pumps","Spare Parts PV7"],"count":2}
+{"itemIds":["Gear Pumps","Variable vane Pumps"],"count":2}
+{"itemIds":["Spare Parts PV7","Variable vane Pumps"],"count":2}
+{"itemIds":["Bladders","Fixed Vane Pumps","Gear Pumps"],"count":4}
+{"itemIds":["Bladders","Fixed Vane Pumps","Spare Parts PV7"],"count":2}
+{"itemIds":["Bladders","Fixed Vane Pumps","Variable vane Pumps"],"count":2}
+{"itemIds":["Bladders","Gear Pumps","Spare Parts PV7"],"count":2}
+{"itemIds":["Bladders","Gear Pumps","Variable vane Pumps"],"count":2}
+{"itemIds":["Bladders","Spare Parts PV7","Variable vane Pumps"],"count":2}
+{"itemIds":["External Gear Pumps","Fixed Mortors","Screws and Nuts"],"count":2}
+{"itemIds":["Fixed Vane Pumps","Gear Pumps","Spare Parts PV7"],"count":2}
+{"itemIds":["Fixed Vane Pumps","Gear Pumps","Variable vane Pumps"],"count":2}
+{"itemIds":["Fixed Vane Pumps","Spare Parts PV7","Variable vane Pumps"],"count":2}
+{"itemIds":["Gear Pumps","Spare Parts PV7","Variable vane Pumps"],"count":2}
+{"itemIds":["Bladders","Fixed Vane Pumps","Gear Pumps","Spare Parts PV7"],"count":2}
+{"itemIds":["Bladders","Fixed Vane Pumps","Gear Pumps","Variable vane Pumps"],"count":2}
+{"itemIds":["Bladders","Fixed Vane Pumps","Spare Parts PV7","Variable vane Pumps"],"count":2}
+{"itemIds":["Bladders","Gear Pumps","Spare Parts PV7","Variable vane Pumps"],"count":2}
+{"itemIds":["Fixed Vane Pumps","Gear Pumps","Spare Parts PV7","Variable vane Pumps"],"count":2}
+{"itemIds":["Bladders","Fixed Vane Pumps","Gear Pumps","Spare Parts PV7","Variable vane Pumps"],"count":2}

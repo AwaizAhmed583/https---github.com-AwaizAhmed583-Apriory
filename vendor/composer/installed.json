@@ -1,0 +1,62 @@
+{
+    "packages": [
+        {
+            "name": "codedheartinside/apriori",
+            "version": "1.1.3",
+            "version_normalized": "1.1.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/codedheartinside/php-apriori.git",
+                "reference": "49ba94cbd26060716d13b6bce9e96a1ab4c14884"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/codedheartinside/php-apriori/zipball/49ba94cbd26060716d13b6bce9e96a1ab4c14884",
+                "reference": "49ba94cbd26060716d13b6bce9e96a1ab4c14884",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.*"
+            },
+            "time": "2016-05-18T11:16:39+00:00",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "CodedHeartInside\\DataMining\\Apriori\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Wim Ulkeman",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Apriori data analysing algorithm written within PHP.",
+            "homepage": "https://github.com/codedheartinside/php-apriori.git",
+            "keywords": [
+                "apriori",
+                "data mining"
+            ],
+            "support": {
+                "issues": "https://github.com/codedheartinside/php-apriori/issues",
+                "source": "https://github.com/codedheartinside/php-apriori/tree/1.1.3"
+            },
+            "install-path": "../codedheartinside/apriori"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

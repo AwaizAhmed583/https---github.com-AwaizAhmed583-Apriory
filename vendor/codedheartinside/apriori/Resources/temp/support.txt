@@ -1,0 +1,7 @@
+{"itemIds":["Bladders"],"support":0.4444444444444444}
+{"itemIds":["Fixed Vane Pumps"],"support":0.6666666666666666}
+{"itemIds":["Gear Pumps"],"support":0.6666666666666666}
+{"itemIds":["Bladders","Fixed Vane Pumps"],"support":0.4444444444444444}
+{"itemIds":["Bladders","Gear Pumps"],"support":0.4444444444444444}
+{"itemIds":["Fixed Vane Pumps","Gear Pumps"],"support":0.6666666666666666}
+{"itemIds":["Bladders","Fixed Vane Pumps","Gear Pumps"],"support":0.4444444444444444}

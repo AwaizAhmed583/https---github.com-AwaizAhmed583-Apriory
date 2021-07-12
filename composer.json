@@ -1,0 +1,11 @@
+{
+    "name": "awaiz/recommed_project",
+    "description": "Recommendation Engine",
+    "authors": [{
+        "name": "Awaiz Ahmed",
+        "email": "awaiz@gmail.com"
+    }],
+    "require": {
+        "codedheartinside/apriori": "1.*"
+    }
+}

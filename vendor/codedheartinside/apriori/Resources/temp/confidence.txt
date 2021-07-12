@@ -1,0 +1,84 @@
+{"if":["Fixed Vane Pumps"],"then":"Bladders","confidence":0.6666666666666666}
+{"if":["Bladders"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Gear Pumps"],"then":"Bladders","confidence":0.6666666666666666}
+{"if":["Bladders"],"then":"Gear Pumps","confidence":1}
+{"if":["Spare Parts PV7"],"then":"Bladders","confidence":1}
+{"if":["Bladders"],"then":"Spare Parts PV7","confidence":0.5}
+{"if":["Variable vane Pumps"],"then":"Bladders","confidence":1}
+{"if":["Bladders"],"then":"Variable vane Pumps","confidence":0.5}
+{"if":["Fixed Mortors"],"then":"External Gear Pumps","confidence":1}
+{"if":["External Gear Pumps"],"then":"Fixed Mortors","confidence":1}
+{"if":["Screws and Nuts"],"then":"External Gear Pumps","confidence":1}
+{"if":["External Gear Pumps"],"then":"Screws and Nuts","confidence":1}
+{"if":["Screws and Nuts"],"then":"Fixed Mortors","confidence":1}
+{"if":["Fixed Mortors"],"then":"Screws and Nuts","confidence":1}
+{"if":["Gear Pumps"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Fixed Vane Pumps"],"then":"Gear Pumps","confidence":1}
+{"if":["Spare Parts PV7"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Fixed Vane Pumps"],"then":"Spare Parts PV7","confidence":0.3333333333333333}
+{"if":["Variable vane Pumps"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Fixed Vane Pumps"],"then":"Variable vane Pumps","confidence":0.3333333333333333}
+{"if":["Spare Parts PV7"],"then":"Gear Pumps","confidence":1}
+{"if":["Gear Pumps"],"then":"Spare Parts PV7","confidence":0.3333333333333333}
+{"if":["Variable vane Pumps"],"then":"Gear Pumps","confidence":1}
+{"if":["Gear Pumps"],"then":"Variable vane Pumps","confidence":0.3333333333333333}
+{"if":["Variable vane Pumps"],"then":"Spare Parts PV7","confidence":1}
+{"if":["Spare Parts PV7"],"then":"Variable vane Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Gear Pumps"],"then":"Bladders","confidence":0.6666666666666666}
+{"if":["Bladders","Gear Pumps"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps"],"then":"Gear Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Spare Parts PV7"],"then":"Bladders","confidence":1}
+{"if":["Bladders","Spare Parts PV7"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps"],"then":"Spare Parts PV7","confidence":0.5}
+{"if":["Fixed Vane Pumps","Variable vane Pumps"],"then":"Bladders","confidence":1}
+{"if":["Bladders","Variable vane Pumps"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps"],"then":"Variable vane Pumps","confidence":0.5}
+{"if":["Gear Pumps","Spare Parts PV7"],"then":"Bladders","confidence":1}
+{"if":["Bladders","Spare Parts PV7"],"then":"Gear Pumps","confidence":1}
+{"if":["Bladders","Gear Pumps"],"then":"Spare Parts PV7","confidence":0.5}
+{"if":["Gear Pumps","Variable vane Pumps"],"then":"Bladders","confidence":1}
+{"if":["Bladders","Variable vane Pumps"],"then":"Gear Pumps","confidence":1}
+{"if":["Bladders","Gear Pumps"],"then":"Variable vane Pumps","confidence":0.5}
+{"if":["Spare Parts PV7","Variable vane Pumps"],"then":"Bladders","confidence":1}
+{"if":["Bladders","Variable vane Pumps"],"then":"Spare Parts PV7","confidence":1}
+{"if":["Bladders","Spare Parts PV7"],"then":"Variable vane Pumps","confidence":1}
+{"if":["Fixed Mortors","Screws and Nuts"],"then":"External Gear Pumps","confidence":1}
+{"if":["External Gear Pumps","Screws and Nuts"],"then":"Fixed Mortors","confidence":1}
+{"if":["External Gear Pumps","Fixed Mortors"],"then":"Screws and Nuts","confidence":1}
+{"if":["Gear Pumps","Spare Parts PV7"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Spare Parts PV7"],"then":"Gear Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Gear Pumps"],"then":"Spare Parts PV7","confidence":0.3333333333333333}
+{"if":["Gear Pumps","Variable vane Pumps"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Variable vane Pumps"],"then":"Gear Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Gear Pumps"],"then":"Variable vane Pumps","confidence":0.3333333333333333}
+{"if":["Spare Parts PV7","Variable vane Pumps"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Variable vane Pumps"],"then":"Spare Parts PV7","confidence":1}
+{"if":["Fixed Vane Pumps","Spare Parts PV7"],"then":"Variable vane Pumps","confidence":1}
+{"if":["Spare Parts PV7","Variable vane Pumps"],"then":"Gear Pumps","confidence":1}
+{"if":["Gear Pumps","Variable vane Pumps"],"then":"Spare Parts PV7","confidence":1}
+{"if":["Gear Pumps","Spare Parts PV7"],"then":"Variable vane Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Gear Pumps","Spare Parts PV7"],"then":"Bladders","confidence":1}
+{"if":["Bladders","Gear Pumps","Spare Parts PV7"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps","Spare Parts PV7"],"then":"Gear Pumps","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps","Gear Pumps"],"then":"Spare Parts PV7","confidence":0.5}
+{"if":["Fixed Vane Pumps","Gear Pumps","Variable vane Pumps"],"then":"Bladders","confidence":1}
+{"if":["Bladders","Gear Pumps","Variable vane Pumps"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps","Variable vane Pumps"],"then":"Gear Pumps","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps","Gear Pumps"],"then":"Variable vane Pumps","confidence":0.5}
+{"if":["Fixed Vane Pumps","Spare Parts PV7","Variable vane Pumps"],"then":"Bladders","confidence":1}
+{"if":["Bladders","Spare Parts PV7","Variable vane Pumps"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps","Variable vane Pumps"],"then":"Spare Parts PV7","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps","Spare Parts PV7"],"then":"Variable vane Pumps","confidence":1}
+{"if":["Gear Pumps","Spare Parts PV7","Variable vane Pumps"],"then":"Bladders","confidence":1}
+{"if":["Bladders","Spare Parts PV7","Variable vane Pumps"],"then":"Gear Pumps","confidence":1}
+{"if":["Bladders","Gear Pumps","Variable vane Pumps"],"then":"Spare Parts PV7","confidence":1}
+{"if":["Bladders","Gear Pumps","Spare Parts PV7"],"then":"Variable vane Pumps","confidence":1}
+{"if":["Gear Pumps","Spare Parts PV7","Variable vane Pumps"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Spare Parts PV7","Variable vane Pumps"],"then":"Gear Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Gear Pumps","Variable vane Pumps"],"then":"Spare Parts PV7","confidence":1}
+{"if":["Fixed Vane Pumps","Gear Pumps","Spare Parts PV7"],"then":"Variable vane Pumps","confidence":1}
+{"if":["Fixed Vane Pumps","Gear Pumps","Spare Parts PV7","Variable vane Pumps"],"then":"Bladders","confidence":1}
+{"if":["Bladders","Gear Pumps","Spare Parts PV7","Variable vane Pumps"],"then":"Fixed Vane Pumps","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps","Spare Parts PV7","Variable vane Pumps"],"then":"Gear Pumps","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps","Gear Pumps","Variable vane Pumps"],"then":"Spare Parts PV7","confidence":1}
+{"if":["Bladders","Fixed Vane Pumps","Gear Pumps","Spare Parts PV7"],"then":"Variable vane Pumps","confidence":1}
